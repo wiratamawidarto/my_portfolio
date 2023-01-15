@@ -8,7 +8,7 @@
 [Credit Card Fraud Detection](https://www.kaggle.com/code/wiratamawidarto/creditcard-fraud-detection)
 *Predicting imbalanced dataset, predict whether someone is a froud based on cresit card data*
 
-###EDA only:
+### EDA only:
 [Mental Health EDA](https://www.kaggle.com/code/wiratamawidarto/mental-health-eda)
 *EDA on Mental health datasets*
 
